@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VoiceScoring</string>
+    <string name="content_description">Image Description</string>
+    <string name="txt_label_note">Note</string>
+</resources>
